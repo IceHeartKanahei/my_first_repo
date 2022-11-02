@@ -1,2 +1,1 @@
-print ("Hello NTUE!!")
-print ("00")
+print(10 * 6)
